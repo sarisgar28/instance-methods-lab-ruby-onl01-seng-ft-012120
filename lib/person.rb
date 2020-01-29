@@ -1,9 +1,9 @@
 Class Person 
 def = greeting
-  puts "Hello World!"
+  @person= "Hello World!"
 end 
 
 Class Person 
 def = walks 
-  puts "the person is walking"
+  @person =  "the person is walking"
 end
